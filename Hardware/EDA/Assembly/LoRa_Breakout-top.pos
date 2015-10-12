@@ -1,0 +1,9 @@
+### Module positions - created on 9/27/2015 7:23:11 PM ###
+### Printed by Pcbnew version kicad (2015-08-16 BZR 6097, Git b384c94)-product
+## Unit = inches, Angle = deg.
+## Side : top
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       10u              C0805               5.3000    -3.6750       0.0    top
+C2       1u               C0603               5.3000    -3.5750       0.0    top
+C3       0.1u             C0603               5.3000    -3.7750       0.0    top
+## End

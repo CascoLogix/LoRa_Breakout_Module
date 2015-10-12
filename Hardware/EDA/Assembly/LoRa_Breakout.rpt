@@ -1,0 +1,509 @@
+## Module report - date 9/27/2015 7:25:11 PM
+## Created by Pcbnew version kicad (2015-08-16 BZR 6097, Git b384c94)-product
+## Unit = inches, Angle = deg.
+##
+
+$BeginDESCRIPTION
+
+$BOARD
+unit INCH
+upper_left_corner  4.082000  3.377669
+lower_right_corner  5.615190  4.152953
+$EndBOARD
+
+$MODULE "U1"
+reference "U1"
+value "RFM95W"
+footprint "RF_Modules:RFM95W"
+attribut none
+position  4.825000  3.775000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "Z:/Engineering/KiCAD_Libraries/3D/Modules/VRML/RFM95W.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$PAD "1"
+position -0.314961 -0.275591
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "2"
+position -0.314961 -0.196850
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "3"
+position -0.314961 -0.118110
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "4"
+position -0.314961 -0.039370
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "5"
+position -0.314961  0.039370
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "6"
+position -0.314961  0.118110
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "7"
+position -0.314961  0.196850
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "8"
+position -0.314961  0.275591
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "9"
+position  0.314961  0.275591
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "10"
+position  0.314961  0.196850
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "11"
+position  0.314961  0.118110
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "12"
+position  0.314961  0.039370
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "13"
+position  0.314961 -0.039370
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "14"
+position  0.314961 -0.118110
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "15"
+position  0.314961 -0.196850
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "16"
+position  0.314961 -0.275591
+size  0.098425  0.047244
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$EndMODULE  U1
+
+$MODULE "C3"
+reference "C3"
+value "0.1u"
+footprint "Passive:C0603"
+attribut smd
+position  5.300000  3.775000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "Z:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl"
+Sc 1 1 1
+Of 0 0 0.005
+Ro 0 0 0
+$EndSHAPE3D
+$PAD "1"
+position -0.030000  0.000000
+size  0.025000  0.045000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "2"
+position  0.030000  0.000000
+size  0.025000  0.045000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$EndMODULE  C3
+
+$MODULE "C1"
+reference "C1"
+value "10u"
+footprint "C0805"
+attribut smd
+position  5.300000  3.675000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "Z:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0805.wrl"
+Sc 1 1 1
+Of 0 0 0.005
+Ro 0 0 0
+$EndSHAPE3D
+$PAD "1"
+position -0.037500  0.000000
+size  0.035000  0.055000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "2"
+position  0.037500  0.000000
+size  0.035000  0.055000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$EndMODULE  C1
+
+$MODULE "C2"
+reference "C2"
+value "1u"
+footprint "C0603"
+attribut smd
+position  5.300000  3.575000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "Z:/Engineering/KiCAD_Libraries/3D/Discrete/Passive/Capacitors/VRML/C0603.wrl"
+Sc 1 1 1
+Of 0 0 0.005
+Ro 0 0 0
+$EndSHAPE3D
+$PAD "1"
+position -0.030000  0.000000
+size  0.025000  0.045000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "2"
+position  0.030000  0.000000
+size  0.025000  0.045000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$EndMODULE  C2
+
+$MODULE "P1"
+reference "P1"
+value "HEADER_2x7"
+footprint "HEADER_100MIL_2R14P_PTH"
+attribut none
+position  4.275000  3.775000
+orientation  270.00
+layer copper
+$SHAPE3D
+Na "Z:/Engineering/KiCAD_Libraries/3D/Headers/VRML/HEADER_M_2.54MM_2R14P_0.230H_0.120T_ST_AU_PTH.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$PAD "14"
+position  0.300000  0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "13"
+position  0.300000 -0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "12"
+position  0.200000  0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "11"
+position  0.200000 -0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "1"
+position -0.300000 -0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  both
+$EndPAD
+$PAD "2"
+position -0.300000  0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "3"
+position -0.200000 -0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "4"
+position -0.200000  0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "5"
+position -0.100000 -0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "6"
+position -0.100000  0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "7"
+position  0.000000 -0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "8"
+position  0.000000  0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "9"
+position  0.100000 -0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$PAD "10"
+position  0.100000  0.050000
+size  0.060000  0.060000
+drill  0.040000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$EndMODULE  P1
+
+$MODULE "J1"
+reference "J1"
+value "u.FL"
+footprint "U.FL-R-SMT"
+attribut none
+position  5.300000  3.925000
+orientation  0.00
+layer component
+$SHAPE3D
+Na "Z:/Engineering/KiCAD_Libraries/3D/Connectors/RF/VRML/UFL-R-SMD.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$PAD "1"
+position  0.000000  0.058500
+size  0.039000  0.039000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "4"
+position  0.057000  0.000000
+size  0.039000  0.087000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "2"
+position -0.057000  0.000000
+size  0.039000  0.087000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$PAD "3"
+position  0.000000 -0.058500
+size  0.039000  0.039000
+drill  0.000000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  Circ
+Layer  front
+$EndPAD
+$EndMODULE  J1
+
+$MODULE "W1"
+reference "W1"
+value "WIRE_PAD_26AWG"
+footprint "Wire_to_Board:WIRE_PAD_26AWG"
+attribut none
+position  5.350000  4.050000
+orientation  0.00
+layer component
+$PAD "1"
+position  0.000000  0.000000
+size  0.045000  0.045000
+drill  0.026000
+shape_offset  0.000000  0.000000
+orientation  0.00
+Shape  ???
+Layer  both
+$EndPAD
+$EndMODULE  W1
+
+$LINE 
+start 4.150000 4.150000
+end 4.150000 3.400000
+width 0.005906
+$EndLINE 
+$LINE 
+start 5.400000 4.150000
+end 4.150000 4.150000
+width 0.005906
+$EndLINE 
+$LINE 
+start 5.400000 3.400000
+end 5.400000 4.150000
+width 0.005906
+$EndLINE 
+$LINE 
+start 4.150000 3.400000
+end 5.400000 3.400000
+width 0.005906
+$EndLINE 
+$EndDESCRIPTION

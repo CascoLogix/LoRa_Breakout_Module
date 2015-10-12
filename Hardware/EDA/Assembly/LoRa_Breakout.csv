@@ -1,0 +1,8 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"RFM95W";1;"RFM95W";;;
+2;"C3";"C0603";1;"0.1u";;;
+3;"C1";"C0805";1;"10u";;;
+4;"C2";"C0603";1;"1u";;;
+5;"P1";"HEADER_100MIL_2R14P_PTH";1;"HEADER_2x7";;;
+6;"J1";"U.FL-R-SMT";1;"u.FL";;;
+7;"W1";"WIRE_PAD_26AWG";1;"WIRE_PAD_26AWG";;;
